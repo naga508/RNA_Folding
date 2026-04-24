@@ -1,7 +1,7 @@
 # Template-Free RNA 3D Folding (Part 2) — README
 
 This repository/package contains **two Jupyter notebooks** used for the course project:
-**Machine Learning for Template-Free RNA 3D Structure Prediction** (Pattern Recognition).
+**Machine Learning for RNA 3D Structure Prediction** (Pattern Recognition).
 
 The notebooks implement **end-to-end, single-trigger pipelines** that (when run top-to-bottom) load the Kaggle
 Stanford RNA 3D Folding (Part 2) data, generate **5 candidate 3D structures per RNA**, and write a `submission.csv`
